@@ -53,8 +53,12 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=mingcnjs&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mingcnjs&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=mingcnjs&show_icons=true&hide_border=true&theme=radical&line_height=27&&count_private=true&include_all_commits=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mingcnjs&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" height="207em">
+</p>
+
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=mingcnjs&row=1">
 </p>
 
 <p align = "center">
