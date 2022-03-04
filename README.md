@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+## &#x1f4c8; GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mingcnjs&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **mingcnjs/mingcnjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
