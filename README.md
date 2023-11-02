@@ -1,51 +1,108 @@
-<!-- <h2 align="center">Hello, folks!
- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- <img src="https://badges.pufler.dev/visits/mingcnjs/mingcnjs"/> 
- <img src="https://badges.pufler.dev/repos/mingcnjs"/>
- <img src="https://badges.pufler.dev/commits/monthly/mingcnjs" />
-</h2> -->
+<h3 style="Color:#0969DA; font-size:28px; font-family: Segoe UI; text-align: center;">Senior Software Developer</h3>
 
-<h2 align="center">Technology Stack 
-<!--  <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"> -->
-</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-E34F26?style=flat-square&logo=javascript&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Typescript-2f74c0?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ES 6/7-black?style=flat-square&logo=purescript&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux"/>
-  <img src="https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=mobile"/>
-<!--   <img src="https://img.shields.io/badge/-Gatsby-834cbb?style=flat-square&logo=gatsby"/> -->
-  <img src="https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next.js"/>
-  <img src="https://img.shields.io/badge/-Vue-45d7a6?style=flat-square&logo=vue.js"/>
-<!--   <img src="https://img.shields.io/badge/-Vuetify-0263c0?style=flat-square&logo=vuetify&logoColor=77c0f7"/> -->
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>    
-  <img src="https://img.shields.io/badge/-MaterialUI-0075ea?style=flat-square&logo=materialdesign&logoColor=879eb5"/>
-  <img src="https://img.shields.io/badge/-StyledComponents-dd7490?style=flat-square&logo=styledcomponents&logoColor=yellow"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=javascript"/>
-<!--   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/> -->
-<!--   <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django"/> -->
-<!--   <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=goland"/> -->
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-MongoDB-001d2a?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-MySQL-73a0c3?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-778fa3?style=flat-square&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/-Git-be3f2b?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GCP-242121?style=flat-square&logo=googlecloud"/>
-  <img src="https://img.shields.io/badge/-AWS-252d39?style=flat-square&logo=amazonaws"/>
-</p>
- 
-<br>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="45" height="45" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="icon"/>
+      <br>React Native
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+      <br>Vue
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Express" />
+      <br>Node
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Laravel" />
+      <br>Rust
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Laravel" />
+      <br>Go
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" height="45" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="graphql" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=crystal" width="45" height="45" alt="Supabase" />
+      <br>Prisma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
+      <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+      <br>MaterialUI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
+      <br>Styled
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+      <br>Three.js
+    </td>
+  </tr>
+</table>
